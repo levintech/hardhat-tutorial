@@ -11,7 +11,9 @@
   > yarn hardhat
 - Set configuration (hardhat.config.js)
 - Compile, Test and Deploy
-  > yarn hardhat compile 
-  > yarn hardhat test 
-  > yarn hardhat run scripts/sample-script.js 
+  > yarn hardhat compile
+  >
+  > yarn hardhat test
+  >
+  > yarn hardhat run scripts/sample-script.js
     
